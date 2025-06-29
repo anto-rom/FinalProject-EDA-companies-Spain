@@ -8,7 +8,8 @@ This repository contains an Exploratory Data Analysis (EDA) project focused on t
 │   ├── EDA companies in Spain.ipynb
 ├── dashboards/
 │   ├── EDA Empresas España.pbix
-├── README.md
+├── Main/ README.md
+
 data/: Original datasets in Excel format.
 
 notebooks/: Jupyter Notebook with the EDA.
