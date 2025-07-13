@@ -11,9 +11,9 @@ This repository contains an Exploratory Data Analysis (EDA) project focused on t
 ├── README.md
 data/: Original datasets in Excel format.
 
-notebooks/: Jupyter Notebook with the EDA.
+notebooks/: Jupyter Notebook with the EDA.   https://drive.google.com/file/d/1oJx7OSuWxHxj0G4Dsi8Zl8ON9FZPueKH/view?usp=drive_link
 
-dashboards/: Power BI Desktop (.pbix) file with interactive reports.
+dashboards/: Power BI Desktop (.pbix) file with interactive reports. https://drive.google.com/file/d/1GbbnHFT6rZ2JR-4mLkiXnp3My24f-JbB/view?usp=drive_link
 
 README.md: Project documentation and usage guide.
 
