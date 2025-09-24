@@ -43,7 +43,7 @@ Clone the repository
 1) git clone https://github.com/anto-rom/FinalProject-EDA-companies-Spain].git
 Check the datasets
 
-2) Excel files located in /data.
+2) Excel files located in /data. PowerBI dashboard https://app.powerbi.com/links/165X8n39W8?ctid=b6078821-12c7-4949-9827-52da66c836c7&pbi_source=linkShare&portalSessionId=5eca7697-9d6c-482c-8ca0-1521762b0cab&fromEntryPoint=share
 
 3) Run the Notebook
 
